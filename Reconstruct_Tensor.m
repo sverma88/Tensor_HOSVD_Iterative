@@ -13,7 +13,7 @@ function [Reconstructed_Tensor]=Reconstruct_Tensor(Core_Tensor,Singular_Factors)
 %                         singular factors
 % 
 % Author                : Sunny Verma (sunnyverma.iitd@gmail.com)
-% Last_Update           : 13/07/2016
+% Last_Update           : 14/07/2016
 
 % % 
 
